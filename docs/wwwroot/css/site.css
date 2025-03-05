@@ -1,0 +1,95 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 70px;
+  background-color: rgb(44, 44, 44);
+}
+
+
+
+
+
+html, body {
+  overflow-x: hidden;
+}
+
+
+.text-right{
+  text-align: right;
+}
+.flex-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.white-space{
+  margin: 30px;
+}
+.white-space2{
+  margin: 60px;
+}
+
+.image-container{
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+video {
+  width: 150% !important
+}
+
+.image-box{
+  width: 930;
+  border: 2px solid #000;
+  padding: 1px;
+  margin: 30px auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.image{
+  width: 940px;
+  height: 440px;
+  justify-content: center;
+  align-items: center;
+}
+.image2{
+  width: 350px;
+  height: 450px;
+}
+.image3 {
+  width: 1910px;
+  height: 700px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.caption{
+  margin-top: 3px;
+  font-size: 16px;
+  color: #333;
+}
+.image-box:hover{
+  transform: scale(1.06);
+  border: 2px solid #ffffff;
+}

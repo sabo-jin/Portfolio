@@ -28,3 +28,9 @@ C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Release\net8.0\refint\
 C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Release\net8.0\Portfolio.pdb
 C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Release\net8.0\Portfolio.genruntimeconfig.cache
 C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Release\net8.0\ref\Portfolio.dll
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\bin\Release\net8.0\publish\web.config
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\bin\Release\net8.0\publish\appsettings.json
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\bin\Release\net8.0\publish\Portfolio.deps.json
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\bin\Release\net8.0\publish\Portfolio.runtimeconfig.json
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Release\net8.0\Portfolio.sourcelink.json
