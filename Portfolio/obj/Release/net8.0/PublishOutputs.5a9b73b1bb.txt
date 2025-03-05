@@ -1,0 +1,7 @@
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\publish\Portfolio.exe
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\publish\appsettings.Development.json
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\publish\appsettings.json
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\publish\Portfolio.dll
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\publish\Portfolio.deps.json
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\publish\Portfolio.runtimeconfig.json
+C:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\publish\Portfolio.pdb

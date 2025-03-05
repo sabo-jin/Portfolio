@@ -1,0 +1,70 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="image-container">
+    <video autoplay muted loop>
+        <source src="videos\all.mp4" type="video/mp4">
+    </video>
+</div>
+
+
+<div class="text-center py-3" style="background-color: #1e3a5f; color: white;">
+    <h1 class="display-6">About Me</h1>
+    <div class="container-fluid">
+        <p class="lead">Hello, I'm Tristan Elmore.</p>
+        <p>I've been deeply involved in game development since 2023. My passion for games and their mechanics has always been strong, but it wasn't until I left my previous job that I had the chance to fully explore this interest.</p>
+        <p>Since then, I've been committed to expanding my knowledge through Unity, with a primary focus on C#.</p>
+        <p>Now, I'm excited to take on new challenges and experiences that will help me further navigate the vast world of software development.</p>
+    </div>
+</div>
+
+
+
+<div class="display-4 nav-link text-white text-center white-space">
+     Highlighted Projects 
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
+</div>
+<div class="image-container">
+    <iframe width="940px" height="440px" src="https://www.youtube.com/embed/nJvP4eZHF7U?start=0"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+    gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<div class="display-4 nav-link text-white text-center white-space">
+     Professional Projects
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
+</div>
+<div class="display-4 nav-link text-white flex-container image-container">
+    <a class="nav-link text-center" asp-page="/ProDisplay1">
+        <img src="images\officeVR.jpg" alt="description" class="text-center image-box image2">
+        <p class="caption text-white">Escape The Office VR</p>
+    </a>
+    <a class="nav-link text-center" asp-page="/ProDisplay2">
+        <img src="images\CryptoKinggThumbnali.png" alt="description" class="text-center image-box image2">
+        <p class="caption text-white">CryptoKingg</p>
+    </a>
+</div>
+
+
+<div class="display-4 nav-link text-white text-center white-space">
+     Personal Projects
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
+</div>
+<div class="display-4 nav-link text-white flex-container image-container">
+    <a class="nav-link text-center" asp-page="/PerDisplay1">
+        <img src="images\narutogetmic.jpg" alt="description" class="image-box image2">
+        <p class="caption text-white">Beginner Projects</p>
+    </a>
+    <a class="nav-link text-center" asp-page="/PerDisplay2">
+        <img src="images\DungeonQuestV2.png" alt="description" class="image-box image2">
+        <p class="caption text-white">Dungeon Quest</p>
+    </a>
+    <a class="nav-link text-center" asp-page="/PerDisplay3">
+        <img src="images\blackWIPsign.png" alt="description" class="image-box image2"> 
+        <p class="caption text-white">WIP</p>
+    </a>
+</div>
