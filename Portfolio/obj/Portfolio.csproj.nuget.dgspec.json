@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\Portfolio.csproj": {}
+    "c:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\Portfolio.csproj": {
+    "c:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\Portfolio.csproj",
+        "projectUniqueName": "c:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\Portfolio.csproj",
+        "projectPath": "c:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\Portfolio.csproj",
         "packagesPath": "C:\\Users\\tristan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\obj\\",
+        "outputPath": "c:\\Users\\tristan\\Desktop\\Projects\\Portfolio\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tristan\\AppData\\Roaming\\NuGet\\NuGet.Config",

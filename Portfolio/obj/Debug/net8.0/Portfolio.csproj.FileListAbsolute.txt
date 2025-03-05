@@ -33,3 +33,4 @@ c:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Debug\net8.0\refint\Po
 c:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.pdb
 c:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.genruntimeconfig.cache
 c:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Debug\net8.0\ref\Portfolio.dll
+c:\Users\tristan\Desktop\Projects\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json
