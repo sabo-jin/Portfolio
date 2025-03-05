@@ -1,0 +1,12 @@
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\Portfolio.exe
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\publish\web.config
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\appsettings.Development.json
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\appsettings.json
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\publish\appsettings.Development.json
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\publish\appsettings.json
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\publish\Portfolio.deps.json
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\publish\Portfolio.runtimeconfig.json
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\Portfolio.dll
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\Portfolio.deps.json
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\Portfolio.runtimeconfig.json
+C:\Users\tristan\Desktop\Projects\Portfolio\docs\Portfolio.pdb
